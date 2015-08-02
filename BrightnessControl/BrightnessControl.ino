@@ -1,6 +1,6 @@
 int lightPin = 0;  //define a pin for Photo resistor
 //Resistor values
-  //0 - 690 -- Day light
+  //0 - 600 -- Day light
   // Upper -- Night
 int upBlind = 11;
 int downBlind = 12;
